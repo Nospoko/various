@@ -1,0 +1,2 @@
+# Do not follow anything in a tmp directory
+*/tmp/*
